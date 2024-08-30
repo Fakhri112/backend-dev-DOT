@@ -8,7 +8,7 @@ $ npm install
 
 ## ENV EXAMPLE
 
-Buat ENV dengan keys sebagai berikut. Gunakan PostgreSQL sebagai driver database
+Buat .env dengan keys sebagai berikut. Gunakan PostgreSQL sebagai driver database
 
 ```bash
 DB_TYPE="postgres"
